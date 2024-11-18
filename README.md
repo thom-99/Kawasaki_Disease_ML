@@ -11,9 +11,9 @@ in order to do that I had to:
 
 I opted for a Logistic Regression model in this instance, as it commonly used to predict diseases (or binary conditions in general).
 
-### limitations
+### Limitations
 unfortunately the dataset is not very large and there is a big mismatch between the number of individuals affected with kawasaki disease and the control group, this could impact the model accuracy.
 
 ### Future Plans 
   1) implement a differential expression analysis.
-  2) try to search for transcriptomic data from the same tissue in other healthy individuals to fit those samples in the control group and potentially improve the accuracy of the model.
+  2) try to search for compatible transcriptomic data from the same tissue in other healthy individuals to fit those samples in the control group and potentially improve the accuracy of the model.
