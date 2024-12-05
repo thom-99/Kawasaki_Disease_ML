@@ -17,3 +17,5 @@ unfortunately the dataset is not very large and there is a big mismatch between 
 ### Future Plans 
   1) implement a differential expression analysis.
   2) try to search for compatible transcriptomic data from the same tissue in other healthy individuals to fit those samples in the control group and potentially improve the accuracy of the model.
+
+  -) experiment with different ways to reduce dimensionality
