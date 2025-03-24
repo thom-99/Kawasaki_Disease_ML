@@ -1,6 +1,6 @@
 ## Predicting Kawasaki Disease: A Machine Learning Approach to Transcriptomics Data
 
-Kawasaki Disease is a syndrome of cause still unknown that mainly affects children under the age of 5. It results in a fever which can last more than 5 days that is not affected by usual medications. 
+[Kawasaki Disease](https://en.wikipedia.org/wiki/Kawasaki_disease) is a syndrome of cause still unknown that mainly affects children under the age of 5. It results in a fever which can last more than 5 days that is not affected by usual medications. 
 
 in this project my main purpose was to build a Machine Learning model that could predict wheter or not a child is affected by Kawaski Disease by analyzing their transcriptomic profile. 
 
